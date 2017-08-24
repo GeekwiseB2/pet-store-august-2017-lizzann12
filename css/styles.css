@@ -11,6 +11,11 @@
   display: inline-block;
 }
 
+.flex {
+  diplay: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
 /*Hero Styles*/
 .hero {
   background-image: url('../img/hero.jpg');
@@ -27,3 +32,8 @@
 .hero .white-text {
   font-size: 2em;
 }
+ /*Featured Section Styles*/
+/*.thumbnail {
+  padding: 8px 12px;
+  background-color: #EDF1F4;
+}*/
